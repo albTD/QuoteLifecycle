@@ -13,10 +13,6 @@ import com.quote.lifecycle.models.Quote;
 
 @SpringBootTest
 class QuoteLifecycleApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
 	
 	  private Quote quote;
 
